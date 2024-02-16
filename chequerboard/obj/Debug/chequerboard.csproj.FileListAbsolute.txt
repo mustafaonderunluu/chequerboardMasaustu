@@ -1,0 +1,10 @@
+C:\Users\musta\source\repos\chequerboard\chequerboard\bin\Debug\chequerboard.exe.config
+C:\Users\musta\source\repos\chequerboard\chequerboard\bin\Debug\chequerboard.exe
+C:\Users\musta\source\repos\chequerboard\chequerboard\bin\Debug\chequerboard.pdb
+C:\Users\musta\source\repos\chequerboard\chequerboard\obj\Debug\chequerboard.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\chequerboard\chequerboard\obj\Debug\chequerboard.Form1.resources
+C:\Users\musta\source\repos\chequerboard\chequerboard\obj\Debug\chequerboard.Properties.Resources.resources
+C:\Users\musta\source\repos\chequerboard\chequerboard\obj\Debug\chequerboard.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\chequerboard\chequerboard\obj\Debug\chequerboard.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\chequerboard\chequerboard\obj\Debug\chequerboard.exe
+C:\Users\musta\source\repos\chequerboard\chequerboard\obj\Debug\chequerboard.pdb
